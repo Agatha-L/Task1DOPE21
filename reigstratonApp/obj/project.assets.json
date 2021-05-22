@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "S:\\DOPE21\\session2app\\Session2App.csproj",
-      "projectName": "Session2App",
-      "projectPath": "S:\\DOPE21\\session2app\\Session2App.csproj",
+      "projectUniqueName": "S:\\DOPE21\\reigstratonApp\\reigstratonApp.csproj",
+      "projectName": "reigstratonApp",
+      "projectPath": "S:\\DOPE21\\reigstratonApp\\reigstratonApp.csproj",
       "packagesPath": "C:\\Users\\home\\.nuget\\packages\\",
-      "outputPath": "S:\\DOPE21\\session2app\\obj\\",
+      "outputPath": "S:\\DOPE21\\reigstratonApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\home\\AppData\\Roaming\\NuGet\\NuGet.Config"
