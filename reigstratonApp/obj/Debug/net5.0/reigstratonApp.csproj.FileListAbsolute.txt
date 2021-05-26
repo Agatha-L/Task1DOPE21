@@ -1,0 +1,16 @@
+S:\DOPE21\reigstratonApp\bin\Debug\net5.0\reigstratonApp.exe
+S:\DOPE21\reigstratonApp\bin\Debug\net5.0\reigstratonApp.deps.json
+S:\DOPE21\reigstratonApp\bin\Debug\net5.0\reigstratonApp.runtimeconfig.json
+S:\DOPE21\reigstratonApp\bin\Debug\net5.0\reigstratonApp.runtimeconfig.dev.json
+S:\DOPE21\reigstratonApp\bin\Debug\net5.0\reigstratonApp.dll
+S:\DOPE21\reigstratonApp\bin\Debug\net5.0\ref\reigstratonApp.dll
+S:\DOPE21\reigstratonApp\bin\Debug\net5.0\reigstratonApp.pdb
+S:\DOPE21\reigstratonApp\obj\Debug\net5.0\reigstratonApp.csprojAssemblyReference.cache
+S:\DOPE21\reigstratonApp\obj\Debug\net5.0\reigstratonApp.GeneratedMSBuildEditorConfig.editorconfig
+S:\DOPE21\reigstratonApp\obj\Debug\net5.0\reigstratonApp.AssemblyInfoInputs.cache
+S:\DOPE21\reigstratonApp\obj\Debug\net5.0\reigstratonApp.AssemblyInfo.cs
+S:\DOPE21\reigstratonApp\obj\Debug\net5.0\reigstratonApp.csproj.CoreCompileInputs.cache
+S:\DOPE21\reigstratonApp\obj\Debug\net5.0\reigstratonApp.dll
+S:\DOPE21\reigstratonApp\obj\Debug\net5.0\ref\reigstratonApp.dll
+S:\DOPE21\reigstratonApp\obj\Debug\net5.0\reigstratonApp.pdb
+S:\DOPE21\reigstratonApp\obj\Debug\net5.0\reigstratonApp.genruntimeconfig.cache
